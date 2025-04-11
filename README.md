@@ -35,6 +35,10 @@ This is a simple To-Do List API application built with FastAPI and SQLite. It pr
 ## Setup and Installation
 
 1. Clone the repository
+   ```
+   git clone https://github.com/muhammadiwa/todo-list.git
+   cd todo-list
+   ```
 2. Set up a virtual environment:
    ```
    python -m venv venv
