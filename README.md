@@ -62,4 +62,4 @@ This is a simple To-Do List API application built with FastAPI and SQLite. It pr
 ## API Documentation
 
 Once the application is running, you can access the interactive API documentation at:
-- Postman: `https://www.postman.com/payload-candidate-54469917/assesment/collection/7ot6t1r/todo-list-app?action=share&creator=42390035`
+- [Postman](https://www.postman.com/payload-candidate-54469917/assesment/collection/7ot6t1r/todo-list-app?action=share&creator=42390035){:target="_blank"}
